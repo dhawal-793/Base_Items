@@ -7,3 +7,4 @@ sudo curl "https://awscli.amazonaws.com/awscli-exe-linux-x86_64.zip" -o "awscliv
 sudo unzip awscliv2.zip
 #install the AWSCLI  
 sudo ./aws/install --update
+sudo rm awscliv2.zip
