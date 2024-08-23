@@ -8,3 +8,5 @@ sudo apt-get update
 sudo apt-get install jenkins -y 
 
 # install java 
+sudo apt update
+sudo apt install fontconfig openjdk-17-jre -y 
