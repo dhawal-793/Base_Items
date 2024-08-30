@@ -1,1 +1,1 @@
-usermod -aG docker ubuntu
+sudo usermod -aG docker ubuntu
